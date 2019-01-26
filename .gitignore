@@ -1,4 +1,6 @@
 # 编译文件
 __pycache__/
+mysite/__pycache__/**.pyc
+polls/__pycache__/**.pyc
 *.pyc
 .DS_Store
